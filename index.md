@@ -1,4 +1,6 @@
-* TOC {:toc}
+**Table of contents** 
+* TOC
+{:toc}
 
 ## Fall 2023 - Schedule and readings
 
