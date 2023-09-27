@@ -4,7 +4,7 @@
 
 ## Fall 2023 - Schedule and readings
 
-We meet on Fridays 11-1PM. 
+We meet on Fridays 11AM - 1PM. 
 
 ### September 22
 
