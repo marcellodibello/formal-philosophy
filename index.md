@@ -2,7 +2,7 @@
 * TOC
 {:toc}
 
-# ASU Formal Philosophy Reading Group 
+Website of **ASU Formal Philosophy Reading Group**.  
 
 ## Fall 2023 - Schedule and readings
 
