@@ -6,6 +6,12 @@
 
 We meet on Thursdays 1-3PM. 
 
+### September 21
+
+Meacham and  Weisberg (2010), [Representation Theorems and the Foundations of
+Decision Theory](https://drive.google.com/file/d/11ovOEKqHQ2MgLIUZzwi1ZtQUi2eo1n7l/view?usp=sharing
+)
+
 ### September 28
 
 Meacham and  Weisberg (2010), [Representation Theorems and the Foundations of
@@ -16,5 +22,16 @@ Decision Theory](https://drive.google.com/file/d/11ovOEKqHQ2MgLIUZzwi1ZtQUi2eo1n
 
 ### October 12
 
-### Etc. 
+### October 19
+
+### October 26
+
+### November 2
+
+### November 16
+
+### November 23
+
+### November 30
+
 
