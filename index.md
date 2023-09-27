@@ -28,6 +28,8 @@ Decision Theory](https://drive.google.com/file/d/11ovOEKqHQ2MgLIUZzwi1ZtQUi2eo1n
 
 ### November 2
 
+### November 9
+
 ### November 16
 
 ### November 23
