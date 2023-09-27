@@ -1,15 +1,7 @@
-**Table of contents** 
+**ASU Formal Philosophy Reading Group** 
 * TOC
 {:toc}
 
----
-title: "Untitled"
-author: "Anonymous"
-output: html_document
----
-
-
-Website of **ASU Formal Philosophy Reading Group**.  
 
 ## Fall 2023 - Schedule and readings
 
