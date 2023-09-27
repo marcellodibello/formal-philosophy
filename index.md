@@ -1,8 +1,3 @@
-**ASU Formal Philosophy Reading Group** 
-* TOC
-{:toc}
-
-
 ## Fall 2023 - Schedule and readings
 
 We meet on Thursdays 1-3PM. 
