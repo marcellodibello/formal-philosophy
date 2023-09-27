@@ -1,7 +1,5 @@
 markdown: kramdown
 title: "ASU Formal Philosophy Reading Group"
 author: ""
-output:
-  html_document:
-    toc: true
-    theme: readable
+output: html_document
+    
