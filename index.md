@@ -20,7 +20,13 @@ Decision Theory](https://drive.google.com/file/d/11ovOEKqHQ2MgLIUZzwi1ZtQUi2eo1n
 
 ### October 6
 
+Eriksson and Hajek (2007), [What Are Degrees of Belief?](https://link.springer.com/content/pdf/10.1007/s11225-007-9059-4.pdf
+)
+
 ### October 13
+
+Eriksson and Hajek (2007), [What Are Degrees of Belief?](https://link.springer.com/content/pdf/10.1007/s11225-007-9059-4.pdf
+)
 
 ### October 20
 
