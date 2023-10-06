@@ -30,16 +30,16 @@ Eriksson and Hajek (2007), [What Are Degrees of Belief?](https://link.springer.c
 
 ### October 20
 
-Konek (2019), [Comparative Probability](https://drive.google.com/drive/folders/1Gixb1VV5Y6yvKirXxazTJq5Vd12N-P9e) in *The Open Handbook of Formal Epistemology*
+Konek (2019), [Comparative Probability](https://philarchive.org/archive/KONCP) in *The Open Handbook of Formal Epistemology*
 
 ### October 27
 
-Konek (2019), [Comparative Probability](https://drive.google.com/drive/folders/1Gixb1VV5Y6yvKirXxazTJq5Vd12N-P9e) in *The Open Handbook of Formal Epistemology*
+Konek (2019), [Comparative Probability](https://philarchive.org/archive/KONCP) in *The Open Handbook of Formal Epistemology*
 
 
 ### November 3
 
-Konek (2019), [Comparative Probability]([https://drive.google.com/drive/folders/1Gixb1VV5Y6yvKirXxazTJq5Vd12N-P9e) in *The Open Handbook of Formal Epistemology*
+Konek (2019), [Comparative Probability](https://philarchive.org/archive/KONCP) in *The Open Handbook of Formal Epistemology*
 
 
 ### November 10
