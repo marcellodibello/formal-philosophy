@@ -23,19 +23,19 @@ Decision Theory](https://drive.google.com/file/d/11ovOEKqHQ2MgLIUZzwi1ZtQUi2eo1n
 Eriksson and Hajek (2007), [What Are Degrees of Belief?](https://link.springer.com/content/pdf/10.1007/s11225-007-9059-4.pdf
 )
 
-### October 13
+### ~~October 13~~
 
 Eriksson and Hajek (2007), [What Are Degrees of Belief?](https://link.springer.com/content/pdf/10.1007/s11225-007-9059-4.pdf
 )
 
 ### October 20
 
-Konek (2019), [Comparative Probabilities](https://philarchive.org/archive/KONCP) in *The Open Handbook of Formal Epistemology*
+Eriksson and Hajek (2007), [What Are Degrees of Belief?](https://link.springer.com/content/pdf/10.1007/s11225-007-9059-4.pdf
+)
 
 ### October 27
 
 Konek (2019), [Comparative Probabilities](https://philarchive.org/archive/KONCP) in *The Open Handbook of Formal Epistemology*
-
 
 ### November 3
 
